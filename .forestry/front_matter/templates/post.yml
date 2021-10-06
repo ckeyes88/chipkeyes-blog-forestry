@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/what-i-didn-t-learn-in-my-in-cs-degree.md
