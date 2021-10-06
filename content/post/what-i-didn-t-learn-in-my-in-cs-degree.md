@@ -5,7 +5,6 @@ title: What I didn’t learn in my in CS degree
 excerpt: ''
 date: 
 hero: ''
-draft: true
 
 ---
 > “Someone please save us, us college kids!  
