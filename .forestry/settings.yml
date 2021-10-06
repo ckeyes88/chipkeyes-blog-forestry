@@ -16,6 +16,11 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: directory
+  path: content/episodes
+  label: Episodes
+  create: all
+  match: "**/*"
 - type: heading
   label: Data
 - type: directory
