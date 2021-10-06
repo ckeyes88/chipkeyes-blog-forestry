@@ -1,5 +1,5 @@
 ---
-timeToRead: 0
+timeToRead: 4
 authors: []
 title: What I didn’t learn in my in CS degree
 excerpt: ''
