@@ -1,11 +1,11 @@
 ---
-timeToRead: 0
-authors: []
+timeToRead: 4
+authors: ["Chip Keyes"]
 title: What I didn’t learn in my in CS degree
-excerpt: ''
-date: 
+excerpt: 'Someone please save us, us college kids! What my parents told me is what I did. They said go to school and be a college kid, but in the...'
+date: 2017-03-17
 hero: ''
-draft: true
+draft: false
 
 ---
 > “Someone please save us, us college kids!  
